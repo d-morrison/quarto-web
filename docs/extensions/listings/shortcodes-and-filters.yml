@@ -225,6 +225,13 @@
     Generate diagrams from embedded code;
     supports Mermaid, Dot/GraphViz, PlantUML, Asymptote, and TikZ.
 
+- name: div-anchors
+  path: https://github.com/d-morrison/div-anchors
+  author: '[d-morrison](https://github.com/d-morrison)'
+  description: >
+    Adds visual URL anchor links to theorem and proof divs for HTML output,
+    similarly to the built-in `anchor-sections` option for section headings.
+
 - name: div-reuse
   path: https://github.com/mcanouil/quarto-div-reuse
   author: '[Mickaël CANOUIL](https://github.com/mcanouil)'
